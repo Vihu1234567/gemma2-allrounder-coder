@@ -4,8 +4,9 @@ A custom **Ollama coding model (`allrounder-coder`)** paired with an **autonomou
 
 ![Base Model](https://shields.io)
 ![Runtime](https://shields.io)
-![Hardware](https://shields.io)
+![Inference](https://shields.io)
 ![Speed](https://shields.io)
+
 
 ---
 
